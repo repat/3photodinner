@@ -133,7 +133,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/sommersalat1.jpg" /&gt;
+            &lt;img src="sommersalat1.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
