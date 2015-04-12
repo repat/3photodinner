@@ -20,7 +20,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/ricepudding1.jpg" alt="rice-pudding-1" class="img-rounded"/&gt;
+            &lt;img src="//threephotodinner.com/img/ricepudding1.jpg" alt="rice-pudding-1" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -43,7 +43,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/ricepudding2.jpg" alt="rice-pudding-2" class="img-rounded"/&gt;
+            &lt;img src="//threephotodinner.com/img/ricepudding2.jpg" alt="rice-pudding-2" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Preparation&lt;/h3&gt;
@@ -59,7 +59,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/ricepudding3.jpg" alt="rice-pudding-3" class="img-rounded"/&gt;
+            &lt;img src="//threephotodinner.com/img/ricepudding3.jpg" alt="rice-pudding-3" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Serve and eat&lt;/h3&gt;
@@ -80,7 +80,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/noodles-pesto-olives1.jpg" alt="noodles-pesto-olives-1" /&gt;
+            &lt;img src="//threephotodinner.com/img/noodles-pesto-olives1.jpg" alt="noodles-pesto-olives-1" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -97,7 +97,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/noodles-pesto-olives2.jpg" alt="noodles-pesto-olives-2" /&gt;
+            &lt;img src="//threephotodinner.com/img/noodles-pesto-olives2.jpg" alt="noodles-pesto-olives-2" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Preparation&lt;/h3&gt;
@@ -115,7 +115,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img//noodles-pesto-olives3.jpg" alt="noodles-pesto-olives-3" /&gt;
+            &lt;img src="//threephotodinner.com/img//noodles-pesto-olives3.jpg" alt="noodles-pesto-olives-3" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Serve and eat&lt;/h3&gt;
@@ -136,7 +136,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/sommersalat1.jpg" alt="sommersalat-1" /&gt;
+            &lt;img src="//threephotodinner.com/img/sommersalat1.jpg" alt="sommersalat-1" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -164,7 +164,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/sommersalat2.jpg" alt="sommersalat-2" /&gt;
+            &lt;img src="//threephotodinner.com/img/sommersalat2.jpg" alt="sommersalat-2" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Preparation&lt;/h3&gt;
@@ -180,7 +180,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="//threephotodinner.com/img/sommersalat3.jpg" alt="sommersalat-3"/&gt;
+            &lt;img src="//threephotodinner.com/img/sommersalat3.jpg" alt="sommersalat-3" class="img-rounded" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Serve and eat&lt;/h3&gt;
