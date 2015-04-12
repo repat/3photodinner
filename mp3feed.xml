@@ -15,12 +15,12 @@
     <published>2015-03-25T09:00:00Z</published>
     <updated>2015-03-25T09:00:00Z</updated>
     <link rel="alternate" href="http://3photodinner.com/2015-03-25-ricepudding/"/>
-    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="0" type="audio/mpeg"/>
     <content type="html">
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding1.jpg" /&gt;
+            &lt;img src="img/ricepudding1.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -43,7 +43,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding2.jpg" /&gt;
+            &lt;img src="img/ricepudding2.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Preparation&lt;/h3&gt;
@@ -59,7 +59,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding3.jpg" /&gt;
+            &lt;img src="img/ricepudding3.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Serve and eat&lt;/h3&gt;
@@ -75,7 +75,7 @@
     <published>2015-03-14T09:00:00Z</published>
     <updated>2015-03-14T09:00:00Z</updated>
     <link rel="alternate" href="http://3photodinner.com/2015-03-14-noodles-pesto-olives/"/>
-    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="0" type="audio/mpeg"/>
     <content type="html">
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
@@ -131,7 +131,7 @@
     <published>2015-03-13T09:00:00Z</published>
     <updated>2015-03-13T09:00:00Z</updated>
     <link rel="alternate" href="http://3photodinner.com/2015-03-13-sommersalat/"/>
-    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="0" type="audio/mpeg"/>
     <content type="html">
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;

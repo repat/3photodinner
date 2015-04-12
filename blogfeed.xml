@@ -19,7 +19,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding1.jpg" /&gt;
+            &lt;img src="img/ricepudding1.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -42,7 +42,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding2.jpg" /&gt;
+            &lt;img src="img/ricepudding2.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Preparation&lt;/h3&gt;
@@ -58,7 +58,7 @@
 &lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
     &lt;div class="flipper"&gt;
         &lt;div class="front"&gt;
-            &lt;img src="../img/ricepudding3.jpg" /&gt;
+            &lt;img src="img/ricepudding3.jpg" /&gt;
         &lt;/div&gt;
         &lt;div class="back"&gt;
             &lt;h3&gt;Serve and eat&lt;/h3&gt;
