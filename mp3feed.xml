@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://3photodinner.com/</id>
+  <title>Three Photo Dinner Podcast</title>
+  <updated>2015-03-25T09:00:00Z</updated>
+  <link rel="alternate" href="http://3photodinner.com/"/>
+  <link rel="self" href="http://3photodinner.com/mp3feed.xml"/>
+  <author>
+    <name>Rene Schultz</name>
+    <uri>http://rpschultz.de</uri>
+  </author>
+  <entry>
+    <id>tag:3photodinner.com,2015-03-25:/2015-03-25-ricepudding/</id>
+    <title type="html">Rice pudding</title>
+    <published>2015-03-25T09:00:00Z</published>
+    <updated>2015-03-25T09:00:00Z</updated>
+    <link rel="alternate" href="http://3photodinner.com/2015-03-25-ricepudding/"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <content type="html">
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/ricepudding1.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Ingredients&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;1 liter of milk&lt;/li&gt;
+                &lt;li&gt;1 packet of sugar or vanilla sugar&lt;/li&gt;
+                &lt;li&gt;250g of rice pudding (half the package)&lt;/li&gt;
+                &lt;li&gt;1 jar of cherries&lt;/li&gt;
+            &lt;/ul&gt;
+
+            &lt;h4&gt;Possible additions&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;1 can of peaches (instead of cherries)&lt;/li&gt;
+                &lt;li&gt;Cinnamon&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/ricepudding2.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Preparation&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Cook milk&lt;/li&gt;
+                &lt;li&gt;Pour sugar and rice into hot milk&lt;/li&gt;
+                &lt;li&gt;Wait until milk is gone and stir every couple of minutes&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/ricepudding3.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Serve and eat&lt;/h3&gt;
+            Put rice pudding in a bowl, season with cinnamon and put cold cherries on top.
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:3photodinner.com,2015-03-14:/2015-03-14-noodles-pesto-olives/</id>
+    <title type="html">Noodles, Pesto and Olives</title>
+    <published>2015-03-14T09:00:00Z</published>
+    <updated>2015-03-14T09:00:00Z</updated>
+    <link rel="alternate" href="http://3photodinner.com/2015-03-14-noodles-pesto-olives/"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <content type="html">
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/noodles-pesto-olives1.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Ingredients&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Salt&lt;/li&gt;
+                &lt;li&gt;1 bag or glass of green olives&lt;/li&gt;
+                &lt;li&gt;1 glass of green pesto genoves&lt;/li&gt;
+                &lt;li&gt;100-200g of noodles (~half a package)&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/noodles-pesto-olives2.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Preparation&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Put salt in water and boil it&lt;/li&gt;
+                &lt;li&gt;Cook noodles&lt;/li&gt;
+                &lt;li&gt;Cut olives&lt;/li&gt;
+                &lt;li&gt;When ready, let the water out of the pot&lt;/li&gt;
+                &lt;li&gt;Add a quarter of the pesto glass and olives&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/noodles-pesto-olives3.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Serve and eat&lt;/h3&gt;
+            Stir a bit and it's ready to eat
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:3photodinner.com,2015-03-13:/2015-03-13-sommersalat/</id>
+    <title type="html">Sommersalat</title>
+    <published>2015-03-13T09:00:00Z</published>
+    <updated>2015-03-13T09:00:00Z</updated>
+    <link rel="alternate" href="http://3photodinner.com/2015-03-13-sommersalat/"/>
+    <link rel="enclosure" href="http://threephotodinner.com/mp3/train-song.mp3" length="2870700" type="audio/mpeg"/>
+    <content type="html">
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/sommersalat1.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Ingredients&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Salt, Pepper, Herbs&lt;/li&gt;
+                &lt;li&gt;1 Edam, Cheddar or Gouda cheese&lt;/li&gt;
+                &lt;li&gt;1 Cucumber&lt;/li&gt;
+                &lt;li&gt;A bunch of tomatoes&lt;/li&gt;
+                &lt;li&gt;1 Avocado&lt;/li&gt;
+                &lt;li&gt;1 Bologna sausage or ham pieces&lt;/li&gt;
+                &lt;li&gt;1 Baguette&lt;/li&gt;
+            &lt;/ul&gt;
+
+            &lt;h4&gt;Possible additions&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;1 Mozarella&lt;/li&gt;
+                &lt;li&gt;1 Paprika/Pepper/Capsicum&lt;/li&gt;
+                &lt;li&gt;1 Red onion&lt;/li&gt;
+                &lt;li&gt;A pinch of garlic powder&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/sommersalat2.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Preparation&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;Cut everything in little pieces&lt;/li&gt;
+                &lt;li&gt;Season everything with salt, pepper and herbs&lt;/li&gt;
+                &lt;li&gt;Cut the bread&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="flip-container" ontouchstart="this.classList.toggle('hover');"&gt;
+    &lt;div class="flipper"&gt;
+        &lt;div class="front"&gt;
+            &lt;img src="../img/sommersalat3.jpg" /&gt;
+        &lt;/div&gt;
+        &lt;div class="back"&gt;
+            &lt;h3&gt;Serve and eat&lt;/h3&gt;
+            Mix everything in a big bowl or cooking pot.
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+  </entry>
+</feed>
