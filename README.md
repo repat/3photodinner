@@ -11,8 +11,12 @@ For more ideas check out the resources.
 
 ## Technolgy
 * Built with [nanoc](http://nanoc.ws/). Podcast feed with [my extension](http://repat.de/2015/03/using-nanoc-for-podcast-feeds/).
+* [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+* [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons)
 * Hosted on [GitHub Pages](https://pages.github.com/)
 
+## Ideas
+* See the [wiki](https://github.com/repat/threephotodinner/wiki)
 
 ## Contact
 #### repat
